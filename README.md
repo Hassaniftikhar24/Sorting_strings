@@ -1,4 +1,4 @@
-# Sorting_strings
+# Sorting_strings 
 Sorting a user entered string alphabetically, irrespective of their case.
 Task: Sorting the words alphabetically without caring for their capitalization
 Input: A string of words separated by commas
